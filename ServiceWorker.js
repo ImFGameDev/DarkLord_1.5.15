@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-DarkLord-1.5.15";
+const cacheName = "DefaultCompany-DarkLord-1.5.16";
 const contentToCache = [
-    "Build/DarkLord_1.5.15.loader.js",
-    "Build/DarkLord_1.5.15.framework.js",
-    "Build/DarkLord_1.5.15.data",
-    "Build/DarkLord_1.5.15.wasm",
+    "Build/DarkLord_1.5.16.loader.js",
+    "Build/DarkLord_1.5.16.framework.js",
+    "Build/DarkLord_1.5.16.data",
+    "Build/DarkLord_1.5.16.wasm",
     "TemplateData/style.css"
 
 ];
